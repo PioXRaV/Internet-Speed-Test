@@ -4,8 +4,19 @@ When you run it, it starts testing your Internet speed.
 
 ### Example
 
-<img width=256 src="https://media.discordapp.net/attachments/872416298615857182/1001809712318251098/Internet_Speed_Test.jpg"/>
+```
+Internet Speed Testing, Please Wait.
+
+Download Speed Testing
+Upload Speed Testing
+
+Ping: 31 ms
+Download: 23.35 Mbps, Upload: 6.99 Mbps
+```
 
 ### Required modules
 
+```
+sockets
 speedtest-cli
+```
