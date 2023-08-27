@@ -2,7 +2,7 @@
 
 When you run it, it starts testing your Internet speed.
 
-### Example
+### Example output
 
 ```
 Internet Speed Testing, Please Wait.
